@@ -13,18 +13,6 @@ and animal food bowl stands. Hope you like what you see and are interested in bu
 Click here</a> to view some of the artwork that I have already done. </p>
 <p style="text-align:center; bottom: 4; font-size: 50px"> If you know anyone who would potentially be interested in buying something please send this site to them.
 Thank you so much!
-<style>
-.footer {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   text-align: center;
-   font-size: 40px;
-   font-family: castellar;
-}
-</style>
-
 <div class="footer">
   <p>If you have any questions or would like to make an order please contact me at
   <a href="https://outlook.live.com/owa/">John_B_Jenkins@outlook.com.</a> 
