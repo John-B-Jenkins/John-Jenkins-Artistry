@@ -10,7 +10,7 @@ and animal food bowl stands. Hope you like what you see and are interested in bu
 </p>
 <p style="text-align:center; bottom: 4; font-size: 50px">
 <a href="https://www.canva.com/design/DAEkf4tqFps/VsZaL2z8QIii5f-Itvt-HA/watch?utm_content=DAEkf4tqFps&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
-Click here</a> to view some of the artwork that I have already done. </p>
+Click here</a> to view some of the artwork that I have already done. I also create commissioned artistry of the buyers choice as well. </p>
 <p style="text-align:center; bottom: 4; font-size: 50px"> If you know anyone who would potentially be interested in buying something please send this site to them.
 Thank you so much!
 <div class="footer">
